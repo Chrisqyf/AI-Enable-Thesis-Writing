@@ -99,7 +99,9 @@ AI绘图：脑子里的逻辑/图示——文字/语言——生成图
 
 很多模型在回答时都倾向于“谄媚”或“夸大”，使用一些极端、绝对、夸张的表达，比如，彻底打破、完全、惊人、极其。这样的语风是与学术科研强调的严谨、客观、辩证的理念是完全不符的。下图是作者的论文初稿中出现的“AI痕迹”，也是被导师重点指出。
 
-![[Pasted image 20260515103449.png]]
+<div align="center">
+<img width="2560" height="1270" alt="GHBanner" src="https://github.com/Chrisqyf/AI-Enable-Thesis-Writing/blob/main/1.png" />
+</div>
 
 坦率来说，现在的很多文本工作都会交给AI去完成，但在文字表达方面一定要留意AI痕迹（如上述情况）。特别是内容一长，在一些细枝末节就很难顾及到。
 
@@ -130,5 +132,7 @@ microsoft office前段时间已经和anthropic达成合作，在word、ppt、exc
 
 我目前在obsidian等笔记管理平台中初步实现了 vibe writing，在侧栏对话框和AI进行问题讨论或执行检索任务，最后让AI把对话内容自动更新到笔记中，并设置相应的格式。但这些平台主要基于markdown格式进行记录，无法直接对应学术论文要求（word、latex等），或许可以通过个专门插件或skill进行格式转换
 
-![[Pasted image 20260605125217.png]]
+<div align="center">
+<img width="2560" height="1270" alt="GHBanner" src="https://github.com/Chrisqyf/AI-Enable-Thesis-Writing/blob/main/2.png" />
+</div>
 
